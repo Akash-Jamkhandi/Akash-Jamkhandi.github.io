@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm an Android developer. I've been working on Android since 2010. I've worked on games and applications for Android.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Some of the games I've worked on include [Millionaire City](https://play.google.com/store/apps/details?id=com.dchoc.dollars), [Zombie Lane](https://play.google.com/store/apps/details?id=com.dchoc) and [Hollywood City](https://play.google.com/store/apps/details?id=com.digitalchocolate.androidmovie).
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I've worked on applications such as [Philips Smart Air](https://play.google.com/store/apps/details?id=com.philips.cl.di.dev.pa) which involved communicating with the Philips Smart Air purifier.
+
+I'm starting this blog to keep track of my personal projects and to blog about uncommon stuff I find during my development.
