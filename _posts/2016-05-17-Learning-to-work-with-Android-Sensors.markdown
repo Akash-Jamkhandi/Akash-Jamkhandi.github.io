@@ -9,4 +9,11 @@ I have never had a chance to work with Android sensors professionally, so I want
 
 Using sensors is pretty simple. Implement a SensorEventListenerm, create a SensorManager and Sensor object and you're good to go. Just wait for the callback methods to fire. Make sure to register and unregister the sensor.
 
-I'll update this with my progress tomorrow. 
+I'll update this with my progress tomorrow.
+
+TODO :
+Seperate Activity and SensorListener.
+Use a backgroud service to listen if possible.
+Change UI.
+Push to Github.
+ 
